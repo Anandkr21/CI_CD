@@ -1,1 +1,1 @@
-hello
+YML - Yet another language
